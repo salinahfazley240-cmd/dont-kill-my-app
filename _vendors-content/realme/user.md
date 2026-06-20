@@ -1,4 +1,4 @@
----
+---<a href="/realme"><img id="badge-shareable" width="306px" src="/assets/img/placeholder.svg"></a>
 manufacturer: 
     - realme
 
